@@ -1,0 +1,1 @@
+module.exports=(()=>{"use strict";var e={822:()=>{console.log(process.env.ACCESS_TOKEN)}};var r={};function __webpack_require__(_){if(r[_]){return r[_].exports}var t=r[_]={exports:{}};var a=true;try{e[_](t,t.exports,__webpack_require__);a=false}finally{if(a)delete r[_]}return t.exports}__webpack_require__.ab=__dirname+"/";return __webpack_require__(822)})();

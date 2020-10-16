@@ -21,13 +21,14 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "start": "tsc --watch",
     "build": "rm -rf lib dist && tsc",
-    "package": "ncc -m",
+    "package": "ncc build -m",
     "all": "npm run build && npm run package"
   },
   "bugs": {
     "url": "https://github.com/zerolab-fe/awesome-nodejs/issues"
   },
   "devDependencies": {
+    "@vercel/ncc": "^0.24.1",
     "typescript": "^4.0.3"
   }
 }
