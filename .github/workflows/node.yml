@@ -1,8 +1,6 @@
 name: Git Action Issue
 
-on:
-  issues:
-    types: [closed]
+on: [push]
 
 jobs:
   build:
@@ -14,7 +12,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: GitHub CLI example
-        run: gh issue list
+      - name: run build
+        run: node index.js
         env:
-          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
