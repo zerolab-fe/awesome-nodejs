@@ -13,6 +13,6 @@ jobs:
         with:
           node-version: 12.x
       - name: run build
-        run: node index.js
+        run: node packages/issues-to-data/dist/index.js
         env:
           ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
