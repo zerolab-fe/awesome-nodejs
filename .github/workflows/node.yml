@@ -1,0 +1,20 @@
+name: Git Action Issue
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: GitHub CLI example
+        run: gh issue list
+        env:
+          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}
