@@ -25,5 +25,6 @@
 
 ### Node.js management
 
+- [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
