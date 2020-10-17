@@ -1,4 +1,4 @@
-import { get, generateJson } from './utils';
+import { get, generateJson, push } from './utils';
 
 type Data = {
   [key: string]: any;
@@ -55,7 +55,8 @@ async function main() {
     return;
   }
 
-  generateJson(data);
+  await generateJson(data);
+  push();
 }
 
 main();
