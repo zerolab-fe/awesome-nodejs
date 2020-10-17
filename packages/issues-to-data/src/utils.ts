@@ -2,9 +2,20 @@ import fs from 'fs';
 import { execSync } from 'child_process';
 import resolveCwd from 'resolve-cwd';
 import { Octokit } from '@octokit/core';
+import { format } from 'prettier';
+
+export interface DataItem {
+  title: string;
+  repoUrl: string;
+  description: string;
+}
+
+export interface Data {
+  [key: string]: DataItem[];
+}
 
 const octokit = new Octokit({
-  auth: process.env.ACCESS_TOKEN,
+  auth: process.env.ACCESS_TOKEN ?? 'd01b19e1cbebb47fb611dd95488e340ddeb2cd17',
   baseUrl: 'https://api.github.com/repos/zerolab-fe/awesome-nodejs',
 });
 
@@ -27,7 +38,7 @@ export async function get(url: string, _data = {}) {
  * 生成 json
  * @param data object
  */
-export async function generateJson(data: object): Promise<void> {
+export async function generateJson(data: Data): Promise<void> {
   console.log('generate json start...');
   const filePath = resolveCwd.silent('./data.json');
   if (filePath) {
@@ -46,4 +57,23 @@ export function push() {
   execSync('git add data.json');
   execSync(`git commit -m "updated in ${new Date().getTime()}"`);
   execSync('git push origin master');
+}
+
+export function generateMarkdown(data: Data): void {
+  let markdown = '# awesome-nodejs\r\n';
+
+  for (const [key, v] of Object.entries(data)) {
+    markdown += `\r\n### ${key}\r\n`;
+
+    const itemArr = v.map(({ title, repoUrl, description }) => `- [${title}](${repoUrl}) - ${description}`);
+
+    markdown += itemArr.join('\r\n');
+  }
+
+  markdown = format(markdown, { parser: 'markdown' });
+
+  const filePath = resolveCwd.silent('./README.md');
+  if (filePath) {
+    fs.writeFileSync(filePath, markdown);
+  }
 }

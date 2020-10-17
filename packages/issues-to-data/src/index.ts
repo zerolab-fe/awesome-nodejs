@@ -1,8 +1,4 @@
-import { get, generateJson, push } from './utils';
-
-type Data = {
-  [key: string]: any;
-};
+import { get, generateJson, generateMarkdown, push, Data, DataItem } from './utils';
 
 async function getLabels(): Promise<string[]> {
   console.log('getLabels start...');
@@ -17,7 +13,7 @@ async function getLabels(): Promise<string[]> {
   return lables;
 }
 
-async function getIssues(labels: string) {
+async function getIssues(labels: string): Promise<DataItem[]> {
   console.log(`label ${labels} start...`);
 
   const { code, data } = await get('/issues', { labels });
@@ -25,7 +21,7 @@ async function getIssues(labels: string) {
     return [];
   }
 
-  const issues: string[] = data.map(({ title, body }: { title: string; body: string }) => {
+  const issues: DataItem[] = data.map(({ title, body }: { title: string; body: string }) => {
     const reg = /```json([\s\S]*)```/;
     const jsonStr = reg.exec(body)?.[1] ?? '';
     const { repoUrl, description } = JSON.parse(jsonStr);
@@ -55,8 +51,9 @@ async function main() {
     return;
   }
 
-  await generateJson(data);
-  push();
+  // await generateJson(data);
+  generateMarkdown(data);
+  // push();
 }
 
 main();
