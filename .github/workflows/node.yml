@@ -1,6 +1,8 @@
 name: Git Action Issue
 
-on: [push]
+on:
+  issues:
+    types: [closed]
 
 jobs:
   build:
