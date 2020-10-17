@@ -1,20 +1,25 @@
-import { get } from './utils';
+import { get, generateJson } from './utils';
 
 type Data = {
   [key: string]: any;
 };
 
 async function getLabels(): Promise<string[]> {
+  console.log('getLabels start...');
   const { code, data } = await get('/labels');
   if (code !== 200) {
     return [];
   }
 
   const lables: string[] = data.map(({ name }: { name: string }) => name);
+  console.log('getLabels end...');
+
   return lables;
 }
 
 async function getIssues(labels: string) {
+  console.log(`label ${labels} start...`);
+
   const { code, data } = await get('/issues', { labels });
   if (code !== 200) {
     return [];
@@ -31,6 +36,7 @@ async function getIssues(labels: string) {
       description,
     };
   });
+  console.log(`label ${labels} end...`);
 
   return issues;
 }
@@ -49,7 +55,7 @@ async function main() {
     return;
   }
 
-  console.log('issues', JSON.stringify(data));
+  generateJson(data);
 }
 
 main();
