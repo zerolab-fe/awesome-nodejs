@@ -1,15 +1,11 @@
 {
   "name": "issues-to-data",
   "version": "0.0.0",
-  "description": "> TODO: description",
+  "description": "Generate json and markdown files for issues",
   "author": "lishuaishuai <lishuaishuai.it@gmail.com>",
   "homepage": "https://github.com/zerolab-fe/awesome-nodejs#readme",
   "license": "ISC",
   "main": "lib/index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
   "files": [
     "lib"
   ],

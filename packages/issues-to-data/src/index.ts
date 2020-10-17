@@ -44,9 +44,12 @@ async function main() {
 
     for (let i = 0; i < labels.length; i++) {
       const element = labels[i];
-      data[element] = await getIssues(element);
+      const issueArr = await getIssues(element);
+      if (!issueArr.length) {
+        continue;
+      }
+      data[element] = issueArr;
     }
-
   } catch (error) {
     console.log(error);
     return;

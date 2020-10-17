@@ -15,7 +15,7 @@ export interface Data {
 }
 
 const octokit = new Octokit({
-  auth: process.env.ACCESS_TOKEN ?? 'd01b19e1cbebb47fb611dd95488e340ddeb2cd17',
+  auth: process.env.ACCESS_TOKEN,
   baseUrl: 'https://api.github.com/repos/zerolab-fe/awesome-nodejs',
 });
 
