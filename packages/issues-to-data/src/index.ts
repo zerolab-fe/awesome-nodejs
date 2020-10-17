@@ -16,7 +16,7 @@ async function getLabels(): Promise<string[]> {
 async function getIssues(labels: string): Promise<DataItem[]> {
   console.log(`label ${labels} start...`);
 
-  const { code, data } = await get('/issues', { labels });
+  const { code, data } = await get('/issues', { labels, state: 'closed' });
   if (code !== 200) {
     return [];
   }
