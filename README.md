@@ -16,6 +16,10 @@
 - [npm-name](https://github.com/sindresorhus/npm-name) - 检查软件包或组织名称在npm上是否可用
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 
+### Email
+
+- [nodemailer](https://github.com/nodemailer/nodemailer) - 快速轻松发送电子邮件
+
 ### HTTP
 
 - [download](https://github.com/kevva/download) - 下载并解压文件
