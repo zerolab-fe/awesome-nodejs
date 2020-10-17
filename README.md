@@ -18,6 +18,7 @@
 
 ### Email
 
+- [emailjs](https://github.com/eleith/emailjs) - 发送电子邮件（smtp 协议）
 - [nodemailer](https://github.com/nodemailer/nodemailer) - 快速轻松发送电子邮件
 
 ### HTTP
