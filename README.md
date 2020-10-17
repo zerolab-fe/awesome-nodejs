@@ -19,6 +19,7 @@
 
 ### Documentation
 
+- [esdoc](https://github.com/esdoc/esdoc) - JavaScript 的文档生成器
 - [documentation](https://github.com/documentationjs/documentation) - 现代 JavaScript 的文档系统
 
 ### Email
