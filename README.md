@@ -18,6 +18,7 @@
 
 ### Email
 
+- [mjml](https://github.com/mjmlio/mjml) - 一个标识语言，用来减少编写响应式邮件的复杂度
 - [email-templates](https://github.com/forwardemail/email-templates) - 电子邮件模板
 - [emailjs](https://github.com/eleith/emailjs) - 发送电子邮件（smtp 协议）
 - [nodemailer](https://github.com/nodemailer/nodemailer) - 快速轻松发送电子邮件
