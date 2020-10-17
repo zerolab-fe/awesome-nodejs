@@ -25,6 +25,7 @@
 
 ### Node.js management
 
+- [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
