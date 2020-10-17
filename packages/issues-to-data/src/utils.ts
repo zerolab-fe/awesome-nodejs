@@ -5,8 +5,13 @@ const octokit = new Octokit({
   baseUrl: 'https://api.github.com/repos/zerolab-fe/awesome-nodejs',
 });
 
-export async function get(url: string) {
-  const { status, data } = await octokit.request(`GET ${url}`);
+/**
+ * get 请求
+ * @param url string
+ * @param _data object
+ */
+export async function get(url: string, _data = {}) {
+  const { status, data } = await octokit.request(url, _data);
 
   if (status !== 200) {
     return { code: status, data: [], msg: 'error' };
@@ -14,3 +19,4 @@ export async function get(url: string) {
 
   return { code: status, data, msg: 'success' };
 }
+
