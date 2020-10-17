@@ -2,7 +2,7 @@ import fs from 'fs';
 import { execSync } from 'child_process';
 import resolveCwd from 'resolve-cwd';
 import { Octokit } from '@octokit/core';
-import { format } from 'prettier';
+// import { format } from 'prettier';
 
 export interface DataItem {
   title: string;
@@ -54,23 +54,23 @@ export function push() {
   execSync('git config user.name "li-shuaishuai"');
   execSync('git config user.email "lishuaishuai.it@gmail.com"');
   execSync(`git fetch ${REPOSITORY_PATH}`);
-  execSync('git add data.json');
+  execSync('git add data.json README.md');
   execSync(`git commit -m "updated in ${new Date().getTime()}"`);
   execSync('git push origin master');
 }
 
 export function generateMarkdown(data: Data): void {
-  let markdown = '# awesome-nodejs\r\n';
+  let markdown = '# awesome-nodejs\r\n\r\n';
 
   for (const [key, v] of Object.entries(data)) {
-    markdown += `\r\n### ${key}\r\n`;
+    markdown += `### ${key}\r\n\r\n`;
 
     const itemArr = v.map(({ title, repoUrl, description }) => `- [${title}](${repoUrl}) - ${description}`);
 
-    markdown += itemArr.join('\r\n');
+    markdown += `${itemArr.join('\r\n') }\r\n\r\n`;
   }
 
-  markdown = format(markdown, { parser: 'markdown' });
+  // markdown = format(markdown, { parser: 'markdown' });
 
   const filePath = resolveCwd.silent('./README.md');
   if (filePath) {

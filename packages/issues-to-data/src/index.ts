@@ -46,14 +46,15 @@ async function main() {
       const element = labels[i];
       data[element] = await getIssues(element);
     }
+
   } catch (error) {
     console.log(error);
     return;
   }
 
-  // await generateJson(data);
+  await generateJson(data);
   generateMarkdown(data);
-  // push();
+  push();
 }
 
 main();
