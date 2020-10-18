@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [tempy](https://github.com/sindresorhus/tempy) - 获取随机的临时文件或目录路径
 - [move-file](https://github.com/sindresorhus/move-file) - 移动文件
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 查找 npm 或 Node.js 包的根目录
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件
