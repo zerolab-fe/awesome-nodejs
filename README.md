@@ -48,6 +48,7 @@
 
 ### Logger
 
+- [signale](https://github.com/klaussinani/signale) - Console logger
 - [bunyan](https://github.com/trentm/node-bunyan) - Node.js 日志库
 - [log4js](https://github.com/log4js-node/log4js-node) - 优质的 Node.js 日志库
 - [pino](https://github.com/pinojs/pino) - 轻量的 node.js 日志库
