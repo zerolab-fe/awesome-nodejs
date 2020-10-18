@@ -1,9 +1,7 @@
 
-<div algin="center">
-  <div>
-    <img algin="center" width="500" src="./logo.png"/>
-  </div>
-</div>
+<p align="center">
+  <img algin="center" width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+</p>
 
 ### Command-line apps
 
@@ -22,6 +20,10 @@
 - [gh-home](https://github.com/sindresorhus/gh-home) - 打开给定或当前仓库的GitHub页面
 - [npm-name](https://github.com/sindresorhus/npm-name) - 检查软件包或组织名称在npm上是否可用
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+### Command-line utilities
+
+- [chalk](https://github.com/chalk/chalk) - 在 Terminal 设置字符串颜色
 
 ### Date
 
