@@ -48,6 +48,7 @@
 
 ### Logger
 
+- [pino](https://github.com/pinojs/pino) - 轻量的 node.js 日志库
 - [winston](https://github.com/winstonjs/winston) - 支持多传输、简单通用的日志库
 
 ### Node.js management
