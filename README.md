@@ -48,6 +48,7 @@
 
 ### Logger
 
+- [consola](https://github.com/nuxt-contrib/consola) - Console Logger for Node.js and Browser
 - [signale](https://github.com/klaussinani/signale) - Console logger
 - [bunyan](https://github.com/trentm/node-bunyan) - Node.js 日志库
 - [log4js](https://github.com/log4js-node/log4js-node) - 优质的 Node.js 日志库
