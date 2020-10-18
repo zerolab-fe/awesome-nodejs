@@ -55,7 +55,7 @@ export function push() {
   execSync('git config user.email "lishuaishuai.it@gmail.com"');
   execSync(`git fetch ${REPOSITORY_PATH}`);
   execSync('git add data.json README.md');
-  execSync(`git commit -m "updated in ${new Date().getTime()}"`);
+  execSync(`git commit -m "github-actions: ${new Date().getTime()}"`);
   execSync('git push origin master');
 }
 
