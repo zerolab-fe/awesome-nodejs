@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [rimraf](https://github.com/isaacs/rimraf) - 递归删除文件
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files
 - [fast-glob](https://github.com/mrmlnc/fast-glob) - 快速的 Node.js 匹配库
 - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob` 并提供了扩展
