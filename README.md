@@ -38,6 +38,7 @@
 
 ### HTTP
 
+- [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js
 - [superagent](https://github.com/visionmedia/superagent) - 轻量的 HTTP 请求库
 - [http-proxy](https://github.com/http-party/node-http-proxy) - 支持 websocket 的 HTTP 代理库
 - [download](https://github.com/kevva/download) - 下载并解压文件
