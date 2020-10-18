@@ -61,11 +61,9 @@ export function push() {
 
 export function generateMarkdown(data: Data): void {
   let markdown = `
-<div algin="center">
-  <div>
-    <img algin="center" width="500" src="./logo.png"/>
-  </div>
-</div>
+<p align="center">
+  <img algin="center" width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+</p>
 
 `;
 
