@@ -82,6 +82,7 @@
 
 ### Image
 
+- [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器
 - [sharp](https://github.com/lovell/sharp) - 高性能 node.js 图像处理库，使用 libvips 库来实现
 
 ### Logger
