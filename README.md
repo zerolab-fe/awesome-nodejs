@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间或机器间文件锁🔐
 - [find-up](https://github.com/sindresorhus/find-up) - 遍历父目录查找文件
 - [chokidar](https://github.com/paulmillr/chokidar) - 监听文件变化
