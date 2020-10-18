@@ -82,6 +82,7 @@
 
 ### Image
 
+- [jimp](https://github.com/oliver-moran/jimp) - 完全用 JavaScrip t编写图像处理库
 - [lwip](https://github.com/EyalAr/lwip) - 轻量级图像处理器
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
 - [image-type](https://github.com/sindresorhus/image-type) - 检测图像类型 Buffer/Uint8Array
