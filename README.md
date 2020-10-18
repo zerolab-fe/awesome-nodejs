@@ -66,6 +66,7 @@
 - [fast-glob](https://github.com/mrmlnc/fast-glob) - 快速的 Node.js 匹配库
 - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob` 并提供了扩展
 - [del](https://github.com/sindresorhus/del) - 删除文件和目录，基于 `rimraf` 和 `glob `
+- [resolve-cwd](https://github.com/sindresorhus/resolve-cwd) - 从当前工作目录解析模块的路径
 - [micromatch](https://github.com/micromatch/micromatch) - 高度优化的通配符和全局匹配库，minimatch 和 multimatch 的替代品
 
 ### HTTP
@@ -77,6 +78,7 @@
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端（也可在浏览器中使用）
 - [gh-got](https://github.com/sindresorhus/gh-got) - 基于 got 的 GitHub API 封装
 - [got](https://github.com/sindresorhus/got) - 人性化且功能强大的 HTTP 请求库
+- [urllib](https://github.com/node-modules/urllib) - 处理复杂场景下的 HTTP 请求
 
 ### Logger
 
