@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files
 - [fast-glob](https://github.com/mrmlnc/fast-glob) - 快速的 Node.js 匹配库
 - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob` 并提供了扩展
 - [del](https://github.com/sindresorhus/del) - 删除文件和目录，基于 `rimraf` 和 `glob `
