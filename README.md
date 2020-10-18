@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 查找 npm 或 Node.js 包的根目录
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的安全文件名
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically
