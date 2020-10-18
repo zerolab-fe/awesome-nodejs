@@ -46,6 +46,10 @@
 - [gh-got](https://github.com/sindresorhus/gh-got) - 基于 got 的 GitHub API 封装
 - [got](https://github.com/sindresorhus/got) - 人性化且功能强大的 HTTP 请求库
 
+### Logger
+
+- [winston](https://github.com/winstonjs/winston) - 支持多传输、简单通用的日志库
+
 ### Node.js management
 
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
