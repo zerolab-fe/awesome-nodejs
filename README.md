@@ -1,12 +1,13 @@
 
-# awesome-nodejs
-
 <div algin="center">
-  <img width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+  <div>
+    <img algin="center" width="500" src="./logo.png"/>
+  </div>
 </div>
 
-  ### Command-line apps
+### Command-line apps
 
+- [auto-install](https://github.com/siddharthkp/auto-install) - 在编码的时候自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
 - [node-bcat](https://github.com/kessler/node-bcat) - 将日志实时输出到浏览器
