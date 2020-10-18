@@ -8,6 +8,7 @@
 - [live-server](https://github.com/tapio/live-server) - 具有 livereload 功能的开发 HTTP 服务器
 - [http-server](https://github.com/http-party/http-server) - 一个简单的零配置命令行 http 服务器
 - [david](https://github.com/alanshaw/david) - 检测 npm 依赖是否过时
+- [public-ip](https://github.com/sindresorhus/public-ip) - 获取公网 IP 地址
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否建立
 - [pageres](https://github.com/sindresorhus/pageres) - 捕获各种分辨率的网站屏幕截图
 - [speed-test](https://github.com/sindresorhus/speed-test) - 使用 speedtest.net 测试网速和ping
@@ -15,6 +16,18 @@
 - [gh-home](https://github.com/sindresorhus/gh-home) - 打开给定或当前仓库的GitHub页面
 - [npm-name](https://github.com/sindresorhus/npm-name) - 检查软件包或组织名称在npm上是否可用
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+### Documentation
+
+- [esdoc](https://github.com/esdoc/esdoc) - JavaScript 的文档生成器
+- [documentation](https://github.com/documentationjs/documentation) - 现代 JavaScript 的文档系统
+
+### Email
+
+- [mjml](https://github.com/mjmlio/mjml) - 一个标识语言，用来减少编写响应式邮件的复杂度
+- [email-templates](https://github.com/forwardemail/email-templates) - 电子邮件模板
+- [emailjs](https://github.com/eleith/emailjs) - 发送电子邮件（smtp 协议）
+- [nodemailer](https://github.com/nodemailer/nodemailer) - 快速轻松发送电子邮件
 
 ### HTTP
 
@@ -25,5 +38,7 @@
 
 ### Node.js management
 
-
+- [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
+- [n](https://github.com/tj/n) - node 版本管理器
+- [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
