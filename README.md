@@ -38,6 +38,7 @@
 
 ### HTTP
 
+- [http-proxy](https://github.com/http-party/node-http-proxy) - 支持 websocket 的 HTTP 代理库
 - [download](https://github.com/kevva/download) - 下载并解压文件
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端（也可在浏览器中使用）
 - [gh-got](https://github.com/sindresorhus/gh-got) - 基于 got 的 GitHub API 封装
