@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [chokidar](https://github.com/paulmillr/chokidar) - 监听文件变化
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 基于 `fs` 的扩展
 - [make-dir](https://github.com/sindresorhus/make-dir) - 递归创建目录
 - [rimraf](https://github.com/isaacs/rimraf) - 递归删除文件
