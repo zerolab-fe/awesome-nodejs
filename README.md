@@ -99,6 +99,11 @@
 - [pino](https://github.com/pinojs/pino) - 轻量的 node.js 日志库
 - [winston](https://github.com/winstonjs/winston) - 支持多传输、简单通用的日志库
 
+### Markdown
+
+- [marked-terminal](https://github.com/mikaelbr/marked-terminal) - 将 markdown 渲染到 terminal
+- [marked](https://github.com/markedjs/marked) - Markdown 解析器和编译器
+
 ### Node.js management
 
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
