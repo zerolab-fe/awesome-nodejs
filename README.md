@@ -38,6 +38,7 @@
 
 ### Filesystem
 
+- [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的安全文件名
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file
