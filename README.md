@@ -17,10 +17,17 @@
 - [npm-name](https://github.com/sindresorhus/npm-name) - 检查软件包或组织名称在npm上是否可用
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 
+### Date
+
+- [dateformat](https://github.com/felixge/node-dateformat) - 日期格式化
+- [dayjs](https://github.com/iamkun/dayjs) - 一个轻量的日期库，具有和 Moment.js 兼容的API
+- [date-fns](https://github.com/date-fns/date-fns) - 日期工具类库，提供了最全面、最简单和一致的工具集
+- [Luxon](https://github.com/moment/luxon) - 一个用于在JS中处理日期和时间的库
+
 ### Documentation
 
 - [esdoc](https://github.com/esdoc/esdoc) - JavaScript 的文档生成器
-- [documentation](https://github.com/documentationjs/documentation) - 现代 JavaScript 的文档系统
+- [documentation](https://github.com/documentationjs/documentation) - API文档生成器，支持 ES6+
 
 ### Email
 
