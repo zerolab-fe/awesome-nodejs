@@ -1,6 +1,11 @@
+
 # awesome-nodejs
 
-### Command-line apps
+<div algin="center">
+  <img width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+</div>
+
+  ### Command-line apps
 
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
@@ -55,6 +60,7 @@
 - [fast-glob](https://github.com/mrmlnc/fast-glob) - 快速的 Node.js 匹配库
 - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob` 并提供了扩展
 - [del](https://github.com/sindresorhus/del) - 删除文件和目录，基于 `rimraf` 和 `glob `
+- [micromatch](https://github.com/micromatch/micromatch) - 高度优化的通配符和全局匹配库，minimatch 和 multimatch 的替代品
 
 ### HTTP
 
