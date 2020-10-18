@@ -60,14 +60,21 @@ export function push() {
 }
 
 export function generateMarkdown(data: Data): void {
-  let markdown = '# awesome-nodejs\r\n\r\n';
+  let markdown = `
+# awesome-nodejs
+
+<div algin="center">
+  <img width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+</div>
+
+  `;
 
   for (const [key, v] of Object.entries(data)) {
     markdown += `### ${key}\r\n\r\n`;
 
     const itemArr = v.map(({ title, repoUrl, description }) => `- [${title}](${repoUrl}) - ${description}`);
 
-    markdown += `${itemArr.join('\r\n') }\r\n\r\n`;
+    markdown += `${itemArr.join('\r\n')}\r\n\r\n`;
   }
 
   // markdown = format(markdown, { parser: 'markdown' });
