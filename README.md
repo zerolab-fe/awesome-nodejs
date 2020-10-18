@@ -36,6 +36,10 @@
 - [emailjs](https://github.com/eleith/emailjs) - 发送电子邮件（smtp 协议）
 - [nodemailer](https://github.com/nodemailer/nodemailer) - 快速轻松发送电子邮件
 
+### Filesystem
+
+- [del](https://github.com/sindresorhus/del) - 删除文件和目录，基于 `rimraf` 和 `glob `
+
 ### HTTP
 
 - [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js
