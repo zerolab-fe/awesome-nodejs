@@ -61,13 +61,13 @@ export function push() {
 
 export function generateMarkdown(data: Data): void {
   let markdown = `
-# awesome-nodejs
-
 <div algin="center">
-  <img width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+  <div>
+    <img algin="center" width="500" src="./logo.png"/>
+  </div>
 </div>
 
-  `;
+`;
 
   for (const [key, v] of Object.entries(data)) {
     markdown += `### ${key}\r\n\r\n`;
