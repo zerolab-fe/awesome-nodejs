@@ -80,6 +80,10 @@
 - [got](https://github.com/sindresorhus/got) - 人性化且功能强大的 HTTP 请求库
 - [urllib](https://github.com/node-modules/urllib) - 处理复杂场景下的 HTTP 请求
 
+### Image
+
+- [sharp](https://github.com/lovell/sharp) - 高性能 node.js 图像处理库，使用 libvips 库来实现
+
 ### Logger
 
 - [consola](https://github.com/nuxt-contrib/consola) - Console Logger for Node.js and Browser
