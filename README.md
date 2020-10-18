@@ -82,6 +82,7 @@
 
 ### Image
 
+- [lwip](https://github.com/EyalAr/lwip) - 轻量级图像处理器
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
 - [image-type](https://github.com/sindresorhus/image-type) - 检测图像类型 Buffer/Uint8Array
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器
