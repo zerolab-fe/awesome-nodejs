@@ -147,6 +147,11 @@
 - [nodemon](https://github.com/remy/nodemon) - 监视 node.js 应用程序中的任何更改并自动重启服务器
 - [pm2](https://github.com/Unitech/pm2) - 内置负载均衡的 node 进程管理器
 
+### Testing
+
+- [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
+- [nock](https://github.com/nock/nock) - Node.js Mock 库
+
 ### Web framework
 
 - [ws](https://github.com/websockets/ws) -  轻量快速，易测试的 WebSocket 框架
