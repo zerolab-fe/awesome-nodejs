@@ -124,6 +124,7 @@
 
 ### Process management
 
+- [nodemon](https://github.com/remy/nodemon) - 监视 node.js 应用程序中的任何更改并自动重启服务器
 - [pm2](https://github.com/Unitech/pm2) - 内置负载均衡的 node 进程管理器
 
 ### Web framework
