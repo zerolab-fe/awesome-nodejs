@@ -83,6 +83,7 @@
 
 ### HTTP
 
+- [serve](https://github.com/vercel/serve) - 提供静态文件服务
 - [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js
 - [superagent](https://github.com/visionmedia/superagent) - 轻量的 HTTP 请求库
 - [http-proxy](https://github.com/http-party/node-http-proxy) - 支持 websocket 的 HTTP 代理库
