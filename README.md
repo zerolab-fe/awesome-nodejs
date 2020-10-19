@@ -84,6 +84,7 @@
 
 ### HTTP
 
+- [spdy](https://github.com/spdy-http2/node-spdy) - SPDY/HTTP2 服务器，兼容 Express
 - [anyproxy](https://github.com/alibaba/anyproxy) - 可供插件配置的HTTP/HTTPS代理服务器
 - [request-promise](https://github.com/request/request-promise) - request 模块的 promise 版本
 - [request](https://github.com/request/request) - 简单易用的 HTTP 请求库
