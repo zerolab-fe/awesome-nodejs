@@ -3,12 +3,6 @@
   <img algin="center" width="400" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
 </p>
 
-### Blog
-
-- [gatsby](https://github.com/gatsbyjs/gatsby) - React 静态站点生成器
-- [hexo](https://github.com/hexojs/hexo) - 静态博客生成器
-- [calypso ](https://github.com/Automattic/wp-calypso) - Wordpress Node 版本
-
 ### Command-line apps
 
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
@@ -175,4 +169,11 @@
 - [meteor](https://github.com/meteor/meteor) - 可能是 Node.js 上最出色的全栈框架
 - [koa](https://github.com/koajs/koa) - 新一代 web 框架，由 Express 幕后的原班人马打造
 - [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
+
+### Website
+
+- [gatsby](https://github.com/gatsbyjs/gatsby) - React 静态站点生成器
+- [hexo](https://github.com/hexojs/hexo) - 静态博客生成器
+- [calypso ](https://github.com/Automattic/wp-calypso) - Wordpress Node 版本
+- [ghost](https://github.com/TryGhost/Ghost) - 强大的博客系统
 
