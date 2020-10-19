@@ -83,6 +83,7 @@
 
 ### HTTP
 
+- [request](https://github.com/request/request) - 简单易用的 HTTP 请求库
 - [serve](https://github.com/vercel/serve) - 为静态文件或单页面应用提供服务
 - [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js
 - [superagent](https://github.com/visionmedia/superagent) - 轻量的 HTTP 请求库
