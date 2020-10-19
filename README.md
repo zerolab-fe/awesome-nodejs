@@ -143,6 +143,7 @@
 
 ### Web framework
 
+- [feathersjs](https://github.com/feathersjs/feathers) - 【微服务】富有 Hook 特色的微服务框架
 - [@hapi/hapi](https://github.com/hapijs/hapi) - 【微服务】一款极简的框架，常用于 API Gateway
 - [nest](https://github.com/nestjs/nest) - 对标 Spring Boot 的企业级框架，提供了便利的装饰器
 - [egg](https://github.com/eggjs/egg) - 基于 Koa，强大的 loader / plugin 等机制
