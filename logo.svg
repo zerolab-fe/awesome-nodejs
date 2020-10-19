@@ -3,11 +3,11 @@
     <title>logo 2</title>
     <defs>
         <filter id="filter-1">
-            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.007843 0 0 0 0 0.431373 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.023529 0 0 0 0 0.431373 0 0 0 0 0.011765 0 0 0 1.000000 0"></feColorMatrix>
         </filter>
         <filter x="-1.6%" y="-1.5%" width="103.3%" height="103.0%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0.00784313725   0 0 0 0 0.431372549   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.431372549   0 0 0 0 0.0117647059  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
                 <feMergeNode in="SourceGraphic"></feMergeNode>
