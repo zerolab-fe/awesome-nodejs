@@ -84,6 +84,7 @@
 
 ### HTTP
 
+- [http-server](https://github.com/http-party/http-server) - 静态文件服务器命令行工具，无需配置，一条命令开启 http 服务
 - [spdy](https://github.com/spdy-http2/node-spdy) - SPDY/HTTP2 服务器，兼容 Express
 - [anyproxy](https://github.com/alibaba/anyproxy) - 可供插件配置的HTTP/HTTPS代理服务器
 - [request-promise](https://github.com/request/request-promise) - request 模块的 promise 版本
