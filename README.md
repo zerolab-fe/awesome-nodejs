@@ -3,6 +3,10 @@
   <img algin="center" width="400" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
 </p>
 
+### Blog
+
+- [calypso ](https://github.com/Automattic/wp-calypso) - Wordpress Node 版本
+
 ### Command-line apps
 
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
