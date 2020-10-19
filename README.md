@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [log-update](https://github.com/sindresorhus/log-update) - 在 Terminal 渲染进度条或动画
 - [ ora](https://github.com/sindresorhus/ora) - Terminal spinner
 - [yargs](https://github.com/yargs/yargs) - 命令行参数解析工具
 - [enquirer](https://github.com/enquirer/enquirer) - 用于创建交互式 CLI 提示
