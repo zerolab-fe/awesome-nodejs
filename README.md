@@ -143,6 +143,7 @@
 
 ### Web framework
 
+- [@hapi/hapi](https://github.com/hapijs/hapi) - 【微服务】一款极简的框架，常用于 API Gateway
 - [nest](https://github.com/nestjs/nest) - 对标 Spring Boot 的企业级框架，提供了便利的装饰器
 - [egg](https://github.com/eggjs/egg) - 基于 Koa，强大的 loader / plugin 等机制
 - [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速，性能强大的框架
