@@ -143,6 +143,7 @@
 
 ### Web framework
 
+- [ws](https://github.com/websockets/ws) -  轻量快速，易测试的 WebSocket 框架
 - [socket.io](https://github.com/socketio/socket.io) - 强大的 WebSocket 框架
 - [beidou](https://github.com/alibaba/beidou) - Egg / React 同构框架，性能强劲，支持客户端渲染降级
 - [nuxt](https://github.com/nuxt/nuxt.js) - Vue 同构框架
