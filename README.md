@@ -39,6 +39,7 @@
 
 ### Database
 
+- [mongoose](https://github.com/Automattic/mongoose) - 全能的 MongoDB ORM 库
 - [sequelize](https://github.com/sequelize/sequelize) - 一款支持 mysql, sqlite3, pg, msssql 的多功能 ORM 库
 
 ### Date
