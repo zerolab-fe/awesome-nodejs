@@ -37,6 +37,10 @@
 - [enquirer](https://github.com/enquirer/enquirer) - 用于创建交互式 CLI 提示
 - [chalk](https://github.com/chalk/chalk) - 在 Terminal 设置字符串颜色
 
+### Database
+
+- [sequelize](https://github.com/sequelize/sequelize) - 一款支持 mysql, sqlite3, pg, msssql 的多功能 ORM 库
+
 ### Date
 
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式化
