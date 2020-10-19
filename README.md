@@ -90,6 +90,7 @@
 - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob` 并提供了扩展
 - [del](https://github.com/sindresorhus/del) - 删除文件和目录，基于 `rimraf` 和 `glob `
 - [resolve-cwd](https://github.com/sindresorhus/resolve-cwd) - 从当前工作目录解析模块的路径
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - 访问系统剪切板（copy/paste）
 - [micromatch](https://github.com/micromatch/micromatch) - 高度优化的通配符和全局匹配库，minimatch 和 multimatch 的替代品
 
 ### HTTP
