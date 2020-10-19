@@ -143,6 +143,8 @@
 
 ### Web framework
 
+- [nuxt](https://github.com/nuxt/nuxt.js) - Vue 同构框架
+- [next](https://github.com/vercel/next.js) - React 同构框架
 - [micro](https://github.com/vercel/micro) - 异步编程特色的微服务框架
 - [restify](https://github.com/restify/node-restify) - 基于 connect，同时支持 Server / Client
 - [feathersjs](https://github.com/feathersjs/feathers) - 【微服务】富有 Hook 特色的微服务框架
