@@ -122,6 +122,10 @@
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
+### Process management
+
+- [pm2](https://github.com/Unitech/pm2) - 内置负载均衡的 node 进程管理器
+
 ### Web framework
 
 - [meteor](https://github.com/meteor/meteor) - 可能是 Node.js 上最出色的全栈框架
