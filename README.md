@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img algin="center" width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.png"/>
+  <img algin="center" width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
 </p>
 
 ### Command-line apps
