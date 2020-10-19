@@ -5,6 +5,7 @@
 
 ### Blog
 
+- [hexo](https://github.com/hexojs/hexo) - 静态博客生成器
 - [calypso ](https://github.com/Automattic/wp-calypso) - Wordpress Node 版本
 
 ### Command-line apps
