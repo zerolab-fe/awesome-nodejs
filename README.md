@@ -124,6 +124,7 @@
 
 ### Web framework
 
+- [meteor](https://github.com/meteor/meteor) - 可能是 Node.js 上最出色的全栈框架
 - [koa](https://github.com/koajs/koa) - 新一代 web 框架，由 Express 幕后的原班人马打造
 - [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
 
