@@ -103,6 +103,11 @@
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器
 - [sharp](https://github.com/lovell/sharp) - 高性能 node.js 图像处理库，使用 libvips 库来实现
 
+### Linter & Formatter
+
+- [eslint](https://github.com/eslint/eslint) - 插件化并且可配置的 JavaScript 语法规则和代码风格的检查工具
+- [standard](https://github.com/standard/standard) - JavaScript 代码规范，自带 linter & 代码自动修正
+
 ### Logger
 
 - [consola](https://github.com/nuxt-contrib/consola) - Console Logger for Node.js and Browser
