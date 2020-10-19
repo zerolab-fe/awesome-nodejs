@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [figures](https://github.com/sindresorhus/figures) - 在 windows 或其他终端显示 Unicode 符号
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于 ANSI 码转义
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 为 log 添加彩色符号（info、success、warning、error）
 - [conf](https://github.com/sindresorhus/conf) - 轻松设置配置信息
