@@ -71,6 +71,7 @@
 
 ### Filesystem
 
+- [mkdirp](https://github.com/isaacs/node-mkdirp) - 递归创建目录
 - [tempy](https://github.com/sindresorhus/tempy) - 获取随机的临时文件或目录路径
 - [move-file](https://github.com/sindresorhus/move-file) - 移动文件
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 查找 npm 或 Node.js 包的根目录
