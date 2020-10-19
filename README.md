@@ -5,7 +5,7 @@
 
 ### Command-line apps
 
-- [auto-install](https://github.com/siddharthkp/auto-install) - 在编码的时候自动安装依赖
+- [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
 - [node-bcat](https://github.com/kessler/node-bcat) - 将日志实时输出到浏览器
@@ -47,6 +47,10 @@
 
 - [esdoc](https://github.com/esdoc/esdoc) - JavaScript 的文档生成器
 - [documentation](https://github.com/documentationjs/documentation) - API文档生成器，支持 ES6+
+
+### Electron
+
+- [electron-store](https://github.com/sindresorhus/electron-store) - 用来保存 Electron 应用程序或模块的简单持久性数据
 
 ### Email
 
@@ -118,7 +122,7 @@
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
-### electron
+### Web framework
 
-- [electron-store](https://github.com/sindresorhus/electron-store) - 用来保存 Electron 应用程序或模块的简单持久性数据
+- [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
 
