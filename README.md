@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [ink](https://github.com/vadimdemedes/ink) - 使用 React 写命令行应用
 - [log-update](https://github.com/sindresorhus/log-update) - 在 Terminal 渲染进度条或动画
 - [ ora](https://github.com/sindresorhus/ora) - Terminal spinner
 - [yargs](https://github.com/yargs/yargs) - 命令行参数解析工具
