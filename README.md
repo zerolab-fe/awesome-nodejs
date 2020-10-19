@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [figlet](https://github.com/patorjk/figlet.js) - 将普通终端文本转换为大字母，如 logo
 - [clear](https://github.com/bahamas10/node-clear) - 清空终端屏幕
 - [figures](https://github.com/sindresorhus/figures) - 在 windows 或其他终端显示 Unicode 符号
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于 ANSI 码转义
