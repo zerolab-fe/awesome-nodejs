@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [conf](https://github.com/sindresorhus/conf) - 轻松设置配置信息
 - [listr](https://github.com/samverschueren/listr) - Terminal 任务列表
 - [ink](https://github.com/vadimdemedes/ink) - 使用 React 写命令行应用
 - [log-update](https://github.com/sindresorhus/log-update) - 在 Terminal 渲染进度条或动画
