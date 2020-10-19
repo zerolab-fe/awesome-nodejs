@@ -83,7 +83,7 @@
 
 ### HTTP
 
-- [serve](https://github.com/vercel/serve) - 提供静态文件服务
+- [serve](https://github.com/vercel/serve) - 为静态文件或单页面应用提供服务
 - [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js
 - [superagent](https://github.com/visionmedia/superagent) - 轻量的 HTTP 请求库
 - [http-proxy](https://github.com/http-party/node-http-proxy) - 支持 websocket 的 HTTP 代理库
@@ -125,6 +125,7 @@
 
 ### Process management
 
+- [supervisor](https://github.com/petruisfan/node-supervisor) - 监听文件变化并自动重启
 - [nodemon](https://github.com/remy/nodemon) - 监视 node.js 应用程序中的任何更改并自动重启服务器
 - [pm2](https://github.com/Unitech/pm2) - 内置负载均衡的 node 进程管理器
 
