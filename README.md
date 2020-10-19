@@ -143,6 +143,7 @@
 
 ### Web framework
 
+- [beidou](https://github.com/alibaba/beidou) - Egg / React 同构框架，性能强劲，支持客户端渲染降级
 - [nuxt](https://github.com/nuxt/nuxt.js) - Vue 同构框架
 - [next](https://github.com/vercel/next.js) - React 同构框架
 - [micro](https://github.com/vercel/micro) - 异步编程特色的微服务框架
