@@ -143,6 +143,7 @@
 
 ### Web framework
 
+- [micro](https://github.com/vercel/micro) - 异步编程特色的微服务框架
 - [restify](https://github.com/restify/node-restify) - 基于 connect，同时支持 Server / Client
 - [feathersjs](https://github.com/feathersjs/feathers) - 【微服务】富有 Hook 特色的微服务框架
 - [@hapi/hapi](https://github.com/hapijs/hapi) - 【微服务】一款极简的框架，常用于 API Gateway
