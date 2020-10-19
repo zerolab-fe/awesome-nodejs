@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img algin="center" width="500" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
+  <img algin="center" width="400" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
 </p>
 
 ### Command-line apps
@@ -117,4 +117,8 @@
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
+
+### electron
+
+- [electron-store](https://github.com/sindresorhus/electron-store) - 用来保存 Electron 应用程序或模块的简单持久性数据
 
