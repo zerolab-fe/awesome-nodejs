@@ -105,6 +105,7 @@
 
 ### Linter & Formatter
 
+- [prettier](https://github.com/prettier/prettier) - ❤支持多种语言的代码格式化程序
 - [eslint](https://github.com/eslint/eslint) - 插件化并且可配置的 JavaScript 语法规则和代码风格的检查工具
 - [standard](https://github.com/standard/standard) - JavaScript 代码规范，自带 linter & 代码自动修正
 
