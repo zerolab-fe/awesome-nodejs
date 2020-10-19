@@ -24,6 +24,7 @@
 
 ### Command-line utilities
 
+- [ ora](https://github.com/sindresorhus/ora) - Terminal spinner
 - [yargs](https://github.com/yargs/yargs) - 命令行参数解析工具
 - [enquirer](https://github.com/enquirer/enquirer) - 用于创建交互式 CLI 提示
 - [chalk](https://github.com/chalk/chalk) - 在 Terminal 设置字符串颜色
