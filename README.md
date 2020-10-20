@@ -151,6 +151,20 @@
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
+### Other
+
+- [address](https://github.com/node-modules/address) - 获取 IP 和 MAC 地址
+- [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
+- [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
+- [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
+- [open](https://github.com/sindresorhus/open) - 打开 URL、文件、可执行文件等，跨平台
+- [semver](https://github.com/npm/node-semver) - node 的 semver 解析器
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 深度相等检测
+- [clone-deep](https://github.com/jonschlinkert/clone-deep/) - 深拷贝
+- [fx](https://github.com/antonmedv/fx) - 命令行JSON处理工具，具有格式化、突出显示、互动模式等特性
+- [ervy](https://github.com/chunqiuyiyu/ervy) - 在 terminal 绘制图表
+- [awilix](https://github.com/jeffijoe/awilix) - Node.js 依赖注入（DI）模块
+
 ### Process management
 
 - [supervisor](https://github.com/petruisfan/node-supervisor) - 监听文件变化并自动重启
