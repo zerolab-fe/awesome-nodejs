@@ -70,6 +70,14 @@
 - [date-fns](https://github.com/date-fns/date-fns) - 日期工具类库，提供了最全面、最简单和一致的工具集
 - [Luxon](https://github.com/moment/luxon) - 一个用于在JS中处理日期和时间的库
 
+### Debug
+
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - 由 Chrome DevTools 支持的 Node.js 调试工具
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) - 页面远程调试 & 抓包工具
+- [vconsole](https://github.com/Tencent/vConsole) - 微信小程序推出的调试工具，直接内嵌在页面内，支持控制台、网络、系统信息
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Node debugger 和 Devtools 结合的调试工具
+- [debug](https://github.com/visionmedia/debug) - 最好用的 debug 日志辅助工具
+
 ### Documentation
 
 - [esdoc](https://github.com/esdoc/esdoc) - JavaScript 的文档生成器
