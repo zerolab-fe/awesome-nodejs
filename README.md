@@ -12,6 +12,15 @@
 - [brain.js](https://github.com/BrainJS/brain.js) - 基于模型训练的神经网络 JS 库，支持浏览器和 Node
 - [tfjs](https://github.com/tensorflow/tfjs) - TensorFlow JS 版本
 
+### Build tools
+
+- [pkg](https://github.com/vercel/pkg) - 将 Node.js 项目打包成可执行文件
+- [gulp](https://github.com/gulpjs/gulp) - 基于流（stream）的自动化构建工具
+- [parcel](https://github.com/parcel-bundler/parcel) - 开箱即用、零配置的打包器
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler
+- [webpack](https://github.com/webpack/webpack) - 静态模块打包工具
+- [@vercel/ncc](https://github.com/vercel/ncc) - 将 Node.js 项目编译为单个文件
+
 ### Command-line apps
 
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
