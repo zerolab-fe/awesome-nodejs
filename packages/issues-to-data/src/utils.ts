@@ -59,10 +59,14 @@ export function push() {
   execSync('git push origin master');
 }
 
-export function generateMarkdown(data: Data): void {
+export async function generateMarkdown(data: Data): Promise<void> {
   let markdown = `
 <p align="center">
   <img algin="center" width="400" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
+</p>
+
+<p>
+  <a href="https://github.com/zerolab-fe/awesome-nodejs"><img src="https://github.com/zerolab-fe/awesome-nodejs/workflows/Node%20CI/badge.svg" alt="GitHub Actions Build Status" style="max-width:100%;"></a>
 </p>
 
 `;

@@ -52,7 +52,7 @@ async function main() {
     }
   } catch (error) {
     console.log(error);
-    return;
+    process.exit(1)
   }
 
   await generateJson(data);
