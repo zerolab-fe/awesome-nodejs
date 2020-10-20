@@ -3,6 +3,10 @@
   <img algin="center" width="400" src="https://raw.githubusercontent.com/zerolab-fe/awesome-nodejs/master/logo.svg"/>
 </p>
 
+<p>
+  <a href="https://github.com/zerolab-fe/awesome-nodejs"><img src="https://github.com/zerolab-fe/awesome-nodejs/workflows/Node%20CI/badge.svg" alt="GitHub Actions Build Status" style="max-width:100%;"></a>
+</p>
+
 ### Command-line apps
 
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
@@ -122,6 +126,7 @@
 
 ### Linter & Formatter
 
+- [textlint](https://github.com/textlint/textlint) - Text 和 Markdown 校验和格式化
 - [prettier](https://github.com/prettier/prettier) - ❤支持多种语言的代码格式化程序
 - [eslint](https://github.com/eslint/eslint) - 插件化并且可配置的 JavaScript 语法规则和代码风格的检查工具
 - [standard](https://github.com/standard/standard) - JavaScript 代码规范，自带 linter & 代码自动修正
