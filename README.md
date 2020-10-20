@@ -7,6 +7,10 @@
   <a href="https://github.com/zerolab-fe/awesome-nodejs"><img src="https://github.com/zerolab-fe/awesome-nodejs/workflows/Node%20CI/badge.svg" alt="GitHub Actions Build Status" style="max-width:100%;"></a>
 </p>
 
+### AI
+
+- [tfjs](https://github.com/tensorflow/tfjs) - TensorFlow JS 版本
+
 ### Command-line apps
 
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
