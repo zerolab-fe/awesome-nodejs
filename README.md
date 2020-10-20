@@ -146,6 +146,7 @@
 
 ### Network
 
+- [getmac](https://github.com/bevry/getmac) - 获取或校验 MAC 地址
 - [ipify](https://github.com/sindresorhus/ipify) - 获取公网 IP
 - [get-port](https://github.com/sindresorhus/get-port) - 获取一个可用的端口
 - [address](https://github.com/node-modules/address) - 获取 IP 和 MAC 地址
