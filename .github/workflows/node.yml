@@ -1,4 +1,4 @@
-name: Git Action Issue
+name: Node CI
 
 on:
   issues:
