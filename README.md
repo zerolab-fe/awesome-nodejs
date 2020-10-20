@@ -16,7 +16,6 @@
 - [live-server](https://github.com/tapio/live-server) - 具有 livereload 功能的开发 HTTP 服务器
 - [http-server](https://github.com/http-party/http-server) - 一个简单的零配置命令行 http 服务器
 - [david](https://github.com/alanshaw/david) - 检测 npm 依赖是否过时
-- [public-ip](https://github.com/sindresorhus/public-ip) - 获取公网 IP 地址
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否建立
 - [pageres](https://github.com/sindresorhus/pageres) - 捕获各种分辨率的网站屏幕截图
 - [speed-test](https://github.com/sindresorhus/speed-test) - 使用 speedtest.net 测试网速和ping
@@ -145,6 +144,12 @@
 - [marked-terminal](https://github.com/mikaelbr/marked-terminal) - 将 markdown 渲染到 terminal
 - [marked](https://github.com/markedjs/marked) - Markdown 解析器和编译器
 
+### Network
+
+- [get-port](https://github.com/sindresorhus/get-port) - 获取一个可用的端口
+- [address](https://github.com/node-modules/address) - 获取 IP 和 MAC 地址
+- [public-ip](https://github.com/sindresorhus/public-ip) - 获取公网 IP 地址
+
 ### Node.js management
 
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js 隔离环境（沙盒）构建器
@@ -153,7 +158,6 @@
 
 ### Other
 
-- [address](https://github.com/node-modules/address) - 获取 IP 和 MAC 地址
 - [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
 - [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
