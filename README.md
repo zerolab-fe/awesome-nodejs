@@ -9,6 +9,7 @@
 
 ### AI
 
+- [brain.js](https://github.com/BrainJS/brain.js) - 基于模型训练的神经网络 JS 库，支持浏览器和 Node
 - [tfjs](https://github.com/tensorflow/tfjs) - TensorFlow JS 版本
 
 ### Command-line apps
