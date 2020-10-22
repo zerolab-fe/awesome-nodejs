@@ -168,6 +168,7 @@
 
 ### Network
 
+- [portfinder](https://github.com/http-party/node-portfinder) - 自动获取可用端口
 - [getmac](https://github.com/bevry/getmac) - 获取或校验 MAC 地址
 - [ipify](https://github.com/sindresorhus/ipify) - 获取公网 IP
 - [get-port](https://github.com/sindresorhus/get-port) - 获取一个可用的端口
