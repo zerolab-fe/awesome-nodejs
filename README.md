@@ -41,6 +41,7 @@
 
 ### Command-line utilities
 
+- [color](https://github.com/Qix-/color) - Javascript 颜色转换和操作库
 - [update-check](https://github.com/vercel/update-check) - 检查模块是否有更新
 - [minimist](https://github.com/substack/minimist) - 标准命令行参数解析工具
 - [figlet](https://github.com/patorjk/figlet.js) - 将普通终端文本转换为大字母，如 logo
