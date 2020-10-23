@@ -23,7 +23,6 @@
 
 ### Command-line apps
 
-- [commander](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
@@ -42,6 +41,7 @@
 
 ### Command-line utilities
 
+- [commander](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案
 - [color](https://github.com/Qix-/color) - Javascript 颜色转换和操作库
 - [update-check](https://github.com/vercel/update-check) - 检查模块是否有更新
 - [minimist](https://github.com/substack/minimist) - 标准命令行参数解析工具
@@ -183,19 +183,6 @@
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
-### Other
-
-- [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
-- [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
-- [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
-- [open](https://github.com/sindresorhus/open) - 打开 URL、文件、可执行文件等，跨平台
-- [semver](https://github.com/npm/node-semver) - node 的 semver 解析器
-- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 深度相等检测
-- [clone-deep](https://github.com/jonschlinkert/clone-deep/) - 深拷贝
-- [fx](https://github.com/antonmedv/fx) - 命令行JSON处理工具，具有格式化、突出显示、互动模式等特性
-- [ervy](https://github.com/chunqiuyiyu/ervy) - 在 terminal 绘制图表
-- [awilix](https://github.com/jeffijoe/awilix) - Node.js 依赖注入（DI）模块
-
 ### Process management
 
 - [supervisor](https://github.com/petruisfan/node-supervisor) - 监听文件变化并自动重启
@@ -206,6 +193,32 @@
 
 - [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
 - [nock](https://github.com/nock/nock) - Node.js Mock 库
+
+### Utils
+
+- [serialize-javascript](https://github.com/yahoo/serialize-javascript) - 支持将 JavaScript 序列化为 JSON 超集的软件包
+- [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - 将路径字符串(如/user/:name)转换为正则表达式
+- [merge-stream](https://github.com/grncdr/merge-stream) - 将多个流合并为一个交错流
+- [resolve](https://github.com/browserify/resolve) - `require.resolve()` 的增强
+- [pkg-up](https://github.com/sindresorhus/pkg-up) - 查找最近的 package.json 文件
+- [mustache](https://github.com/janl/mustache.js) - 一个简单强大的 Javascript 模板引擎
+- [execa](https://github.com/sindresorhus/execa) - 更好的子进程管理工具
+- [deepmerge](https://github.com/TehShrike/deepmerge) - 递归合并 Javascript 对象的库
+- [cross-spawn](https://github.com/moxystudio/node-cross-spawn) - spawn 函数的跨平台处理
+- [cheerio](https://github.com/cheeriojs/cheerio) - 为服务器特别定制的，快速、灵活、实施的jQuery核心实现
+- [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - JSON 编译为 TypeScript
+- [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
+- [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
+- [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
+- [open](https://github.com/sindresorhus/open) - 打开 URL、文件、可执行文件等，跨平台
+- [semver](https://github.com/npm/node-semver) - node 的 semver 解析器
+- [yaml](https://github.com/eemeli/yaml) - YAML的解析和序列化库
+- [json5](https://github.com/json5/json5) - JSON5解析和序列化库
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 深度相等检测
+- [clone-deep](https://github.com/jonschlinkert/clone-deep/) - 深拷贝
+- [fx](https://github.com/antonmedv/fx) - 命令行JSON处理工具，具有格式化、突出显示、互动模式等特性
+- [ervy](https://github.com/chunqiuyiyu/ervy) - 在 terminal 绘制图表
+- [awilix](https://github.com/jeffijoe/awilix) - Node.js 依赖注入（DI）模块
 
 ### Web framework
 
