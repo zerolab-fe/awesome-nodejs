@@ -23,6 +23,7 @@
 
 ### Command-line apps
 
+- [commander](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
