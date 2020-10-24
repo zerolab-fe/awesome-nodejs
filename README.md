@@ -194,6 +194,10 @@
 - [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
 - [nock](https://github.com/nock/nock) - Node.js Mock 库
 
+### TypeScript
+
+- [ts-node](https://github.com/TypeStrong/ts-node) - 提供了 TypeScript 的运行环境
+
 ### Utils
 
 - [serialize-javascript](https://github.com/yahoo/serialize-javascript) - 支持将 JavaScript 序列化为 JSON 超集的软件包
