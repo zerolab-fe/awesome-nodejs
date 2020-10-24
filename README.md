@@ -23,6 +23,7 @@
 
 ### Command-line apps
 
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - 可以并行运行多个 npm 脚本
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 杀死进程，交互式，跨平台
