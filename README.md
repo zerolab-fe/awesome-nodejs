@@ -194,6 +194,7 @@
 
 ### Testing
 
+- [codecov](https://github.com/codecov/codecov-node) - 一款测试覆盖率检测软件包
 - [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
 - [nock](https://github.com/nock/nock) - Node.js Mock 库
 
@@ -203,6 +204,10 @@
 
 ### Utils
 
+- [query-string](https://github.com/sindresorhus/query-string) - 序列化和反序列化 URL 参数
+- [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为 camelCase 或 PascalCase：foo-bar→fooBar
+- [dependency-check](https://github.com/dependency-check-team/dependency-check) - 检查代码中使用到的模块是否在 package.json 列表中
+- [pify](https://github.com/sindresorhus/pify) - 将采用 callback 方式进行调用的函数变成 Promise 调用
 - [serialize-javascript](https://github.com/yahoo/serialize-javascript) - 支持将 JavaScript 序列化为 JSON 超集的软件包
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - 将路径字符串(如/user/:name)转换为正则表达式
 - [merge-stream](https://github.com/grncdr/merge-stream) - 将多个流合并为一个交错流
