@@ -186,6 +186,10 @@
 - [n](https://github.com/tj/n) - node 版本管理器
 - [nvm](https://github.com/nvm-sh/nvm) - node 版本管理器
 
+### Other
+
+- [webtorrent](https://github.com/webtorrent/webtorrent) - 用于 Node.js 和浏览器的BT种子视频下载与播放工具
+
 ### Process management
 
 - [supervisor](https://github.com/petruisfan/node-supervisor) - 监听文件变化并自动重启
