@@ -122,6 +122,11 @@
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - 访问系统剪切板（copy/paste）
 - [micromatch](https://github.com/micromatch/micromatch) - 高度优化的通配符和全局匹配库，minimatch 和 multimatch 的替代品
 
+### Git
+
+- [nodegit](https://github.com/nodegit/nodegit) - 是 [libgit2](https://libgit2.org/) 的 Node.js 绑定版本
+- [@gitgraph/node](https://github.com/nicoespeon/gitgraph.js) - 在 Terminal 绘制 git 流程图（支持浏览器、React）
+
 ### HTTP
 
 - [http-server](https://github.com/http-party/http-server) - 静态文件服务器命令行工具，无需配置，一条命令开启 http 服务
