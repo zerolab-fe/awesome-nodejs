@@ -42,6 +42,7 @@
 
 ### Command-line utilities
 
+- [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 - [commander](https://github.com/tj/commander.js) - 完整的 node.js 命令行解决方案
 - [color](https://github.com/Qix-/color) - Javascript 颜色转换和操作库
 - [update-check](https://github.com/vercel/update-check) - 检查模块是否有更新
