@@ -206,6 +206,7 @@
 
 ### Testing
 
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [codecov](https://github.com/codecov/codecov-node) - 一款测试覆盖率检测软件包
 - [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
 - [nock](https://github.com/nock/nock) - Node.js Mock 库
