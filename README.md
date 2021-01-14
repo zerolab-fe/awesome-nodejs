@@ -218,6 +218,7 @@
 
 ### Utils
 
+- [ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [qs](https://github.com/ljharb/qs) - 序列化和反序列化 URL 参数
 - [query-string](https://github.com/sindresorhus/query-string) - 序列化和反序列化 URL 参数
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为 camelCase 或 PascalCase：foo-bar→fooBar
