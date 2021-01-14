@@ -23,6 +23,7 @@
 
 ### Command-line apps
 
+- [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - 查找、更新 package.json 中的依赖包
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - 可以并行运行多个 npm 脚本
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在编码时自动安装依赖
 - [wifi-password-cli](https://github.com/kevva/wifi-password-cli) - 获取当前 wifi 密码
