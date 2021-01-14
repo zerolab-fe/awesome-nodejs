@@ -43,6 +43,7 @@
 
 ### Command-line utilities
 
+- [global-modules](https://github.com/jonschlinkert/global-modules) - 返回全局 node_modules 目录
 - [preferred-pm](https://github.com/zkochan/packages/tree/master/preferred-pm) - 返回项目的首选包管理器<pnpm|yarn|npm>
 - [npm-check](https://github.com/dylang/npm-check) - 检查过时，不正确和未使用的依赖项。
 - [validate-npm-package-name](https://github.com/npm/validate-npm-package-name) - 检查包名是否符合 npm 规范
