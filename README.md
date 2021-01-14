@@ -43,6 +43,7 @@
 
 ### Command-line utilities
 
+- [npm-check](https://github.com/dylang/npm-check) - 检查过时，不正确和未使用的依赖项。
 - [validate-npm-package-name](https://github.com/npm/validate-npm-package-name) - 检查包名是否符合 npm 规范
 - [fast-levenshtein](https://github.com/hiddentao/fast-levenshtein) - Levenshtein 算法，指两个字符串之间，由一个转换成另一个所需的最少编辑操作次数。
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
