@@ -225,6 +225,7 @@
 
 ### Utils
 
+- [slash](https://github.com/sindresorhus/slash) - 将 Windows 反斜杠路径转换为斜杠路径
 - [ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [qs](https://github.com/ljharb/qs) - 序列化和反序列化 URL 参数
 - [query-string](https://github.com/sindresorhus/query-string) - 序列化和反序列化 URL 参数
