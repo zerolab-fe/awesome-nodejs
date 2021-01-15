@@ -108,6 +108,7 @@
 
 ### Filesystem
 
+- [tmp](https://github.com/raszi/node-tmp) - 创建临时文件或目录
 - [nsfw](https://github.com/Axosoft/nsfw) - 一个简单文件监听库
 - [mkdirp](https://github.com/isaacs/node-mkdirp) - 递归创建目录
 - [tempy](https://github.com/sindresorhus/tempy) - 获取随机的临时文件或目录路径
