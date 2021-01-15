@@ -225,6 +225,7 @@
 
 ### Utils
 
+- [shortid](https://github.com/dylang/shortid) - 短 ID 生成器。
 - [slash](https://github.com/sindresorhus/slash) - 将 Windows 反斜杠路径转换为斜杠路径
 - [ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [qs](https://github.com/ljharb/qs) - 序列化和反序列化 URL 参数
@@ -254,7 +255,6 @@
 - [clone-deep](https://github.com/jonschlinkert/clone-deep/) - 深拷贝
 - [fx](https://github.com/antonmedv/fx) - 命令行JSON处理工具，具有格式化、突出显示、互动模式等特性
 - [ervy](https://github.com/chunqiuyiyu/ervy) - 在 terminal 绘制图表
-- [awilix](https://github.com/jeffijoe/awilix) - Node.js 依赖注入（DI）模块
 
 ### Web framework
 
