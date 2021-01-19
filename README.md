@@ -134,6 +134,7 @@
 
 ### Git
 
+- [simple-git](https://github.com/steveukx/git-js) - 一个轻量级的接口，用于在任何 node.js 应用程序中运行 git 命令。
 - [nodegit](https://github.com/nodegit/nodegit) - 是 [libgit2](https://libgit2.org/) 的 Node.js 绑定版本
 - [@gitgraph/node](https://github.com/nicoespeon/gitgraph.js) - 在 Terminal 绘制 git 流程图（支持浏览器、React）
 
