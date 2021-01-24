@@ -44,6 +44,7 @@
 
 ### Command-line utilities
 
+- [node-progress](https://github.com/visionmedia/node-progress) - 进度条
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
 - [global-modules](https://github.com/jonschlinkert/global-modules) - 返回全局 node_modules 目录
 - [preferred-pm](https://github.com/zkochan/packages/tree/master/preferred-pm) - 返回项目的首选包管理器<pnpm|yarn|npm>
