@@ -44,6 +44,7 @@
 
 ### Command-line utilities
 
+- [table](https://github.com/gajus/table) - 将数据格式化为表格
 - [node-progress](https://github.com/visionmedia/node-progress) - 进度条
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
 - [global-modules](https://github.com/jonschlinkert/global-modules) - 返回全局 node_modules 目录
