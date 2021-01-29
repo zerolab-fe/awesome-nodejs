@@ -217,6 +217,7 @@
 
 ### Testing
 
+- [chai](https://github.com/chaijs/chai) - Chai 是一个针对 Node.js 和浏览器的行为驱动测试和测试驱动测试的诊断库，可与任何 JavaScript 测试框架集成。
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [codecov](https://github.com/codecov/codecov-node) - 一款测试覆盖率检测软件包
 - [mockjs](https://github.com/nuysoft/Mock) - 浏览器和 Node 均可用，支持自定义 schema 和随机数据
