@@ -44,6 +44,7 @@
 
 ### Command-line utilities
 
+- [text-table](https://github.com/substack/text-table) - 将终端中的内容以无边框表格的形式输出（文本对齐）
 - [table](https://github.com/gajus/table) - 将数据格式化为表格
 - [node-progress](https://github.com/visionmedia/node-progress) - 进度条
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
