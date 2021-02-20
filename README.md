@@ -47,6 +47,7 @@
 - [text-table](https://github.com/substack/text-table) - 将终端中的内容以无边框表格的形式输出（文本对齐）
 - [table](https://github.com/gajus/table) - 将数据格式化为表格
 - [node-progress](https://github.com/visionmedia/node-progress) - 进度条
+- [cli-highlight](https://github.com/felixfbecker/cli-highlight) - 命令行终端语法高亮
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
 - [global-modules](https://github.com/jonschlinkert/global-modules) - 返回全局 node_modules 目录
 - [preferred-pm](https://github.com/zkochan/packages/tree/master/preferred-pm) - 返回项目的首选包管理器<pnpm|yarn|npm>
@@ -111,6 +112,7 @@
 
 ### Filesystem
 
+- [jsonfile](https://github.com/jprichardson/node-jsonfile) - 轻松读取/写入JSON文件
 - [tmp](https://github.com/raszi/node-tmp) - 创建临时文件或目录
 - [nsfw](https://github.com/Axosoft/nsfw) - 一个简单文件监听库
 - [mkdirp](https://github.com/isaacs/node-mkdirp) - 递归创建目录
@@ -218,6 +220,7 @@
 
 ### Testing
 
+- [json-server](https://github.com/typicode/json-server) - 指定 json 文件作为 api 的数据源，模拟服务端接口数据
 - [chai](https://github.com/chaijs/chai) - Chai 是一个针对 Node.js 和浏览器的行为驱动测试和测试驱动测试的诊断库，可与任何 JavaScript 测试框架集成。
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [codecov](https://github.com/codecov/codecov-node) - 一款测试覆盖率检测软件包
@@ -230,6 +233,13 @@
 
 ### Utils
 
+- [ci-info](https://github.com/watson/ci-info) - 获取有关当前持续集成环境的详细信息或判断是否为 CI 环境
+- [p-limit](https://github.com/sindresorhus/p-limit) - 限制 Promise 和 async 函数的并发量
+- [throat](https://github.com/ForbesLindesay/throat) - 限制 Promise 的并发量
+- [global-dirs](https://github.com/sindresorhus/global-dirs) - 获取全局 node_modules 和 bin 目录（npm|yarn）
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 比`JSON.stringify()`快 2 倍
+- [directory-tree](https://github.com/mihneadb/node-directory-tree) - 把目录结构转换成 JavaScript 对象
+- [fuzzy](https://github.com/mattyork/fuzzy) - 根据模糊字符串搜索过滤列表
 - [shortid](https://github.com/dylang/shortid) - 短 ID 生成器。
 - [slash](https://github.com/sindresorhus/slash) - 将 Windows 反斜杠路径转换为斜杠路径
 - [ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
@@ -253,13 +263,6 @@
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
 - [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
 - [open](https://github.com/sindresorhus/open) - 打开 URL、文件、可执行文件等，跨平台
-- [semver](https://github.com/npm/node-semver) - node 的 semver 解析器
-- [yaml](https://github.com/eemeli/yaml) - YAML的解析和序列化库
-- [json5](https://github.com/json5/json5) - JSON5解析和序列化库
-- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 深度相等检测
-- [clone-deep](https://github.com/jonschlinkert/clone-deep/) - 深拷贝
-- [fx](https://github.com/antonmedv/fx) - 命令行JSON处理工具，具有格式化、突出显示、互动模式等特性
-- [ervy](https://github.com/chunqiuyiyu/ervy) - 在 terminal 绘制图表
 
 ### Web framework
 
