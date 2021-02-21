@@ -233,6 +233,7 @@
 
 ### Utils
 
+- [which-pm-runs](https://github.com/zkochan/packages/tree/main/which-pm-runs) - 检测执行进程的包管理器（npm|yarn|pnpm）
 - [ci-info](https://github.com/watson/ci-info) - 获取有关当前持续集成环境的详细信息或判断是否为 CI 环境
 - [p-limit](https://github.com/sindresorhus/p-limit) - 限制 Promise 和 async 函数的并发量
 - [throat](https://github.com/ForbesLindesay/throat) - 限制 Promise 的并发量
@@ -262,7 +263,6 @@
 - [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
 - [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
-- [open](https://github.com/sindresorhus/open) - 打开 URL、文件、可执行文件等，跨平台
 
 ### Web framework
 
