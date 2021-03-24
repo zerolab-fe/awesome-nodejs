@@ -285,6 +285,7 @@
 
 ### Website
 
+- [docusaurus](https://github.com/facebook/docusaurus) - Facebook 的静态站点生成器
 - [gatsby](https://github.com/gatsbyjs/gatsby) - React 静态站点生成器
 - [hexo](https://github.com/hexojs/hexo) - 静态博客生成器
 - [calypso ](https://github.com/Automattic/wp-calypso) - Wordpress Node 版本
