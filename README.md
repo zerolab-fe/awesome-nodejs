@@ -283,6 +283,12 @@
 - [koa](https://github.com/koajs/koa) - 新一代 web 框架，由 Express 幕后的原班人马打造
 - [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
 
+### Webpack
+
+- [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - 提供了一个简单的 web 服务器，并且能够实时重新加载(live reloading)
+- [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - 是一个容器(wrapper)，它可以把 `webpack` 处理后的文件传递给一个服务器(server)
+- [webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - 搭配使用 `webpack-hot-middleware`，实现 HMR
+
 ### Website
 
 - [docusaurus](https://github.com/facebook/docusaurus) - Facebook 的静态站点生成器
