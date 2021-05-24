@@ -221,6 +221,7 @@
 
 ### Testing
 
+- [msw](https://github.com/mswjs/msw) - 用于浏览器和 Node.js 的 REST/GraphQL API模拟库。
 - [json-server](https://github.com/typicode/json-server) - 指定 json 文件作为 api 的数据源，模拟服务端接口数据
 - [chai](https://github.com/chaijs/chai) - Chai 是一个针对 Node.js 和浏览器的行为驱动测试和测试驱动测试的诊断库，可与任何 JavaScript 测试框架集成。
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
