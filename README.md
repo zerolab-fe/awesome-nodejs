@@ -286,6 +286,7 @@
 
 ### Webpack
 
+- [speed-measure-webpack-plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 能够列出输出、loader 和 plugins 的耗时
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - 提供了一个简单的 web 服务器，并且能够实时重新加载(live reloading)
 - [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - 是一个容器(wrapper)，它可以把 `webpack` 处理后的文件传递给一个服务器(server)
 - [webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - 搭配使用 `webpack-hot-middleware`，实现 HMR
