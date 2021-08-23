@@ -40,6 +40,7 @@
 
 ### Command-line apps
 
+- [release-it](https://github.com/release-it/release-it) - 用于自动化版本控制和包发布的 Node CLI 工具
 - [depcheck](https://github.com/depcheck/depcheck) - 检查项目中未使用的依赖
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - 查找、更新 package.json 中的依赖包
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - 可以并行运行多个 npm 脚本
