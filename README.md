@@ -206,6 +206,7 @@
 - [retejs](https://github.com/retejs) - JavaScript可视化编程/节点编辑器开发框架
 - [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - JSON 规则引擎
 - [grapesjs](https://github.com/artf/grapesjs) - 一个免费开源的 Web 模板编辑器，用于无编码构建模板的工具
+- [rete](https://github.com/retejs/rete) - 可视化流程编排工具
 
 ### Markdown
 
