@@ -7,27 +7,14 @@
   <a href="https://github.com/zerolab-fe/awesome-nodejs"><img src="https://github.com/zerolab-fe/awesome-nodejs/workflows/Node%20CI/badge.svg" alt="GitHub Actions Build Status" style="max-width:100%;"></a>
 </p>
 
-### Webpack
-
-- [speed-measure-webpack-plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - 能够列出输出、loader 和 plugins 的耗时
-- [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - 提供了一个简单的 web 服务器，并且能够实时重新加载(live reloading)
-- [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - 是一个容器(wrapper)，它可以把 `webpack` 处理后的文件传递给一个服务器(server)
-- [webpack-hot-middleware](https://github.com/webpack-contrib/webpack-hot-middleware) - 搭配使用 `webpack-hot-middleware`，实现 HMR
-
-### Low/No/Pro Code
-
-- [react-dnd](https://github.com/react-dnd/react-dnd) - React 实现的拖放功能
-- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - JSON 规则引擎
-- [grapesjs](https://github.com/artf/grapesjs) - 一个免费开源的 Web 模板编辑器，用于无编码构建模板的工具
-
-### AST
-
-- [gogocode](https://github.com/thx/gogocode) - AST 处理工具（阿里妈妈）
-
 ### AI
 
 - [brain.js](https://github.com/BrainJS/brain.js) - 基于模型训练的神经网络 JS 库，支持浏览器和 Node
 - [tfjs](https://github.com/tensorflow/tfjs) - TensorFlow JS 版本
+
+### AST
+
+- [gogocode](https://github.com/thx/gogocode) - AST 处理工具（阿里妈妈）
 
 ### Build tools
 
@@ -210,6 +197,13 @@
 - [pino](https://github.com/pinojs/pino) - 轻量的 node.js 日志库
 - [winston](https://github.com/winstonjs/winston) - 支持多传输、简单通用的日志库
 
+### Low/No/Pro Code
+
+- [amis](https://github.com/baidu/amis) - 百度低代码框架，通过 JSON 配置就能生成各种后台页面
+- [react-dnd](https://github.com/react-dnd/react-dnd) - React 实现的拖放功能
+- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - JSON 规则引擎
+- [grapesjs](https://github.com/artf/grapesjs) - 一个免费开源的 Web 模板编辑器，用于无编码构建模板的工具
+
 ### Markdown
 
 - [remark](https://github.com/remarkjs/remark) - markdown 处理器（generate, compile, check, lint）
@@ -289,4 +283,22 @@
 - [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
 - [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
+
+### Web framework
+
+- [ws](https://github.com/websockets/ws) -  轻量快速，易测试的 WebSocket 框架
+- [socket.io](https://github.com/socketio/socket.io) - 强大的 WebSocket 框架
+- [beidou](https://github.com/alibaba/beidou) - Egg / React 同构框架，性能强劲，支持客户端渲染降级
+- [nuxt](https://github.com/nuxt/nuxt.js) - Vue 同构框架
+- [next](https://github.com/vercel/next.js) - React 同构框架
+- [micro](https://github.com/vercel/micro) - 异步编程特色的微服务框架
+- [restify](https://github.com/restify/node-restify) - 基于 connect，同时支持 Server / Client
+- [feathersjs](https://github.com/feathersjs/feathers) - 【微服务】富有 Hook 特色的微服务框架
+- [@hapi/hapi](https://github.com/hapijs/hapi) - 【微服务】一款极简的框架，常用于 API Gateway
+- [nest](https://github.com/nestjs/nest) - 对标 Spring Boot 的企业级框架，提供了便利的装饰器
+- [egg](https://github.com/eggjs/egg) - 基于 Koa，强大的 loader / plugin 等机制
+- [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速，性能强大的框架
+- [meteor](https://github.com/meteor/meteor) - 可能是 Node.js 上最出色的全栈框架
+- [koa](https://github.com/koajs/koa) - 新一代 web 框架，由 Express 幕后的原班人马打造
+- [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
 
