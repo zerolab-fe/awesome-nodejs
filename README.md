@@ -27,6 +27,7 @@
 
 ### Command-line apps
 
+- [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 一个能够快速预览 ESLint 错误并生成错误报告的 CLI 工具
 - [release-it](https://github.com/release-it/release-it) - 用于自动化版本控制和包发布的 Node CLI 工具
 - [depcheck](https://github.com/depcheck/depcheck) - 检查项目中未使用的依赖
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - 查找、更新 package.json 中的依赖包
@@ -203,7 +204,6 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd) - React 实现的拖放功能
 - [formily](https://github.com/alibaba/formily) - 阿里巴巴统一前端表单解决方案
 - [bpmn-js](https://github.com/bpmn-io) - 使用 Web 建模工具可以很方便的构建 BPMN 图表
-- [retejs](https://github.com/retejs) - JavaScript可视化编程/节点编辑器开发框架
 - [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - JSON 规则引擎
 - [grapesjs](https://github.com/artf/grapesjs) - 一个免费开源的 Web 模板编辑器，用于无编码构建模板的工具
 - [rete](https://github.com/retejs/rete) - 可视化流程编排工具
