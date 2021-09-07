@@ -82,6 +82,7 @@
 
 ### Compiler
 
+- [esbuild](https://github.com/evanw/esbuild) - 一个非常快的 JavaScript 打包器和压缩器（Go）
 - [swc](https://github.com/swc-project/swc) - Super fast javascript / typescript compiler
 
 ### Database
@@ -254,55 +255,4 @@
 ### TypeScript
 
 - [ts-node](https://github.com/TypeStrong/ts-node) - 提供了 TypeScript 的运行环境
-
-### Utils
-
-- [which-pm-runs](https://github.com/zkochan/packages/tree/main/which-pm-runs) - 检测执行进程的包管理器（npm|yarn|pnpm）
-- [ci-info](https://github.com/watson/ci-info) - 获取有关当前持续集成环境的详细信息或判断是否为 CI 环境
-- [p-limit](https://github.com/sindresorhus/p-limit) - 限制 Promise 和 async 函数的并发量
-- [throat](https://github.com/ForbesLindesay/throat) - 限制 Promise 的并发量
-- [global-dirs](https://github.com/sindresorhus/global-dirs) - 获取全局 node_modules 和 bin 目录（npm|yarn）
-- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 比`JSON.stringify()`快 2 倍
-- [directory-tree](https://github.com/mihneadb/node-directory-tree) - 把目录结构转换成 JavaScript 对象
-- [fuzzy](https://github.com/mattyork/fuzzy) - 根据模糊字符串搜索过滤列表
-- [shortid](https://github.com/dylang/shortid) - 短 ID 生成器。
-- [slash](https://github.com/sindresorhus/slash) - 将 Windows 反斜杠路径转换为斜杠路径
-- [ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
-- [qs](https://github.com/ljharb/qs) - 序列化和反序列化 URL 参数
-- [query-string](https://github.com/sindresorhus/query-string) - 序列化和反序列化 URL 参数
-- [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为 camelCase 或 PascalCase：foo-bar→fooBar
-- [dependency-check](https://github.com/dependency-check-team/dependency-check) - 检查代码中使用到的模块是否在 package.json 列表中
-- [pify](https://github.com/sindresorhus/pify) - 将采用 callback 方式进行调用的函数变成 Promise 调用
-- [serialize-javascript](https://github.com/yahoo/serialize-javascript) - 支持将 JavaScript 序列化为 JSON 超集的软件包
-- [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - 将路径字符串(如/user/:name)转换为正则表达式
-- [merge-stream](https://github.com/grncdr/merge-stream) - 将多个流合并为一个交错流
-- [resolve](https://github.com/browserify/resolve) - `require.resolve()` 的增强
-- [pkg-up](https://github.com/sindresorhus/pkg-up) - 查找最近的 package.json 文件
-- [mustache](https://github.com/janl/mustache.js) - 一个简单强大的 Javascript 模板引擎
-- [execa](https://github.com/sindresorhus/execa) - 更好的子进程管理工具
-- [deepmerge](https://github.com/TehShrike/deepmerge) - 递归合并 Javascript 对象的库
-- [cross-spawn](https://github.com/moxystudio/node-cross-spawn) - spawn 函数的跨平台处理
-- [cheerio](https://github.com/cheeriojs/cheerio) - 为服务器特别定制的，快速、灵活、实施的jQuery核心实现
-- [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - JSON 编译为 TypeScript
-- [set-value](https://github.com/jonschlinkert/set-value) - 使用 . 符号给对象设置值，如：a.b.c
-- [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统环境语言
-- [dotenv](https://github.com/motdotla/dotenv) - 通过 .env 文件将环境变量注入到 `process.env` 的模块
-
-### Web framework
-
-- [ws](https://github.com/websockets/ws) -  轻量快速，易测试的 WebSocket 框架
-- [socket.io](https://github.com/socketio/socket.io) - 强大的 WebSocket 框架
-- [beidou](https://github.com/alibaba/beidou) - Egg / React 同构框架，性能强劲，支持客户端渲染降级
-- [nuxt](https://github.com/nuxt/nuxt.js) - Vue 同构框架
-- [next](https://github.com/vercel/next.js) - React 同构框架
-- [micro](https://github.com/vercel/micro) - 异步编程特色的微服务框架
-- [restify](https://github.com/restify/node-restify) - 基于 connect，同时支持 Server / Client
-- [feathersjs](https://github.com/feathersjs/feathers) - 【微服务】富有 Hook 特色的微服务框架
-- [@hapi/hapi](https://github.com/hapijs/hapi) - 【微服务】一款极简的框架，常用于 API Gateway
-- [nest](https://github.com/nestjs/nest) - 对标 Spring Boot 的企业级框架，提供了便利的装饰器
-- [egg](https://github.com/eggjs/egg) - 基于 Koa，强大的 loader / plugin 等机制
-- [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速，性能强大的框架
-- [meteor](https://github.com/meteor/meteor) - 可能是 Node.js 上最出色的全栈框架
-- [koa](https://github.com/koajs/koa) - 新一代 web 框架，由 Express 幕后的原班人马打造
-- [express](https://github.com/expressjs/express/) - Node.js Web 应用程序框架
 
