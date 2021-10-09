@@ -86,6 +86,10 @@
 - [esbuild](https://github.com/evanw/esbuild) - 一个非常快的 JavaScript 打包器和压缩器（Go）
 - [swc](https://github.com/swc-project/swc) - Super fast javascript / typescript compiler
 
+### CSS
+
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个用于快速 UI 开发的实用工具集 CSS 框架
+
 ### Database
 
 - [prisma](https://github.com/prisma/prisma) - Next-generation Node.js and TypeScript ORM
