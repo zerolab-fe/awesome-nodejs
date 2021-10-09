@@ -50,6 +50,7 @@
 
 ### Command-line utilities
 
+- [nanocolors](https://github.com/ai/nanocolors) - 比 `chalk` 执行速度快 2 倍、`node_modules` 体积小 5 倍的命令行着色工具
 - [import-local](https://github.com/sindresorhus/import-local) - 允许全局安装的 CLI工具 使用自身的本地安装版本
 - [text-table](https://github.com/substack/text-table) - 将终端中的内容以无边框表格的形式输出（文本对齐）
 - [table](https://github.com/gajus/table) - 将数据格式化为表格
